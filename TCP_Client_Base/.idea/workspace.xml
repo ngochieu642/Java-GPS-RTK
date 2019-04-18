@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b22a2636-8f9a-4fc5-9489-329e5772504e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TCP_Client_Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCP_Client_Base.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Server_GPS/src/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server_GPS/src/TCPServer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,15 +129,16 @@
       <workItem from="1555215283048" duration="1797000" />
       <workItem from="1555269927338" duration="31000" />
       <workItem from="1555393395234" duration="599000" />
-      <workItem from="1555552191801" duration="7240000" />
+      <workItem from="1555552191801" duration="7820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46253000" />
+    <option name="totallyTimeSpent" value="46833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5270458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac04e2a-7165-461d-a56f-7e86a7034c9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../TCP_Client_Base/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Base/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TCP_Client_Base/src/TCP_Client_Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Base/src/TCP_Client_Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCPServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ac04e2a-7165-461d-a56f-7e86a7034c9c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,12 +121,12 @@
       <workItem from="1555148348196" duration="3742000" />
       <workItem from="1555178705595" duration="6705000" />
       <workItem from="1555215227117" duration="1853000" />
-      <workItem from="1555552414312" duration="6784000" />
+      <workItem from="1555552414312" duration="7391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41913000" />
+    <option name="totallyTimeSpent" value="42520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
@@ -182,6 +173,11 @@
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/UsbService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1710" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
