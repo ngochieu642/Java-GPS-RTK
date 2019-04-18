@@ -110,7 +110,7 @@ public class TCP_Client_Base {
 
                 if((data!=null) && serverConnected){
                     out.write(data);
-                    System.out.println("Write "+data.length+" Bytes");
+                    System.out.println("Write "+data.length+" Bytes\n\n");
                 }
             } catch (SerialPortException e) {
                 e.printStackTrace();

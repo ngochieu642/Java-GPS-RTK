@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac04e2a-7165-461d-a56f-7e86a7034c9c" name="Default Changelist" comment="" />
+    <list default="true" id="6ac04e2a-7165-461d-a56f-7e86a7034c9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TCP_Client_Base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Base/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Base/src/TCP_Client_Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Base/src/TCP_Client_Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCPServer.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ServerBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
+            <state>
               <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
@@ -26,13 +35,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-539">
-              <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="18">
+              <caret line="58" column="81" selection-start-line="58" selection-start-column="81" selection-end-line="58" selection-end-column="81" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="class#Rover#0;class#TCPServer#0" />
-                <element signature="e#2259#2260#0" expanded="true" />
-                <element signature="e#2299#2300#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -48,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -57,39 +66,22 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="952" />
     <option name="width" value="977" />
-    <option name="height" value="523" />
+    <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TCP_Server_GPS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TCP_Server_GPS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TCP_Server_GPS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TCP_Server_GPS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaFX_projects/GPS_anhHuan_FX/TCP_Client_Base" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TCP_Client_Base" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -137,15 +129,16 @@
       <workItem from="1555007401196" duration="547000" />
       <workItem from="1555148348196" duration="3742000" />
       <workItem from="1555178705595" duration="6705000" />
+      <workItem from="1555215227117" duration="1853000" />
+      <workItem from="1555552414312" duration="6784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33276000" />
+    <option name="totallyTimeSpent" value="41913000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="418" extended-state="0" />
-    <editor active="true" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.62829405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -156,7 +149,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31178707" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8402458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -186,20 +179,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ServerBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
+        <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TCPServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-539">
-          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+        <state relative-caret-position="18">
+          <caret line="58" column="81" selection-start-line="58" selection-start-column="81" selection-end-line="58" selection-end-column="81" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#Rover#0;class#TCPServer#0" />
-            <element signature="e#2259#2260#0" expanded="true" />
-            <element signature="e#2299#2300#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -56,7 +56,7 @@ public class TCPServer {
                         synchronized (buffer){
                             buffer.wait();
                             out.write(buffer,0,bytesRead);
-                            System.out.println("Send data to Rover");
+                            System.out.println("Send "+bytesRead+" bytes to Rover\n");
                             buffer.notify();
                         }
                     }
@@ -91,9 +91,10 @@ public class TCPServer {
                             bytesRead = in.read(buffer);
                             if(bytesRead>0){
 //                                log("Read "+bytesRead+" bytes: "+ new String(buffer,StandardCharsets.UTF_8));
-                                log("Read "+bytesRead+" bytes: ");
-                                log(new String(buffer,0,bytesRead));
-                                log("------------------------");
+//                                log("Read "+bytesRead+" bytes: ");
+//                                log(new String(buffer,0,bytesRead));
+//                                log("------------------------");
+                                System.out.println("Read "+bytesRead+" bytes");
                                 buffer.notify();
                                 buffer.wait(250);
                             }

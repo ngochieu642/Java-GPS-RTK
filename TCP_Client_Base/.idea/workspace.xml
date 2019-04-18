@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b22a2636-8f9a-4fc5-9489-329e5772504e" name="Default Changelist" comment="" />
+    <list default="true" id="b22a2636-8f9a-4fc5-9489-329e5772504e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Client_Android/app/src/main/java/com/example/admin/tcp_client_andoird/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TCP_Client_Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TCP_Client_Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server_GPS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCP_Server_GPS/src/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCP_Server_GPS/src/TCPServer.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TCP_Client_Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="39" column="92" lean-forward="true" selection-start-line="39" selection-start-column="92" selection-end-line="39" selection-end-column="92" />
+            <state relative-caret-position="10">
+              <caret line="123" column="76" lean-forward="true" selection-start-line="123" selection-start-column="76" selection-end-line="123" selection-end-column="76" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,6 +56,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -57,10 +69,10 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="515" />
     <option name="width" value="977" />
-    <option name="height" value="523" />
+    <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -68,6 +80,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -120,15 +133,18 @@
       <workItem from="1555007383027" duration="577000" />
       <workItem from="1555148001541" duration="3067000" />
       <workItem from="1555178692776" duration="4449000" />
+      <workItem from="1555215283048" duration="1797000" />
+      <workItem from="1555269927338" duration="31000" />
+      <workItem from="1555393395234" duration="599000" />
+      <workItem from="1555552191801" duration="7240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36586000" />
+    <option name="totallyTimeSpent" value="46253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="412" width="781" height="418" extended-state="0" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5270458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -139,7 +155,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8403042" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8786482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,8 +194,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TCP_Client_Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="39" column="92" lean-forward="true" selection-start-line="39" selection-start-column="92" selection-end-line="39" selection-end-column="92" />
+        <state relative-caret-position="10">
+          <caret line="123" column="76" lean-forward="true" selection-start-line="123" selection-start-column="76" selection-end-line="123" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
